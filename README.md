@@ -1,6 +1,4 @@
 # Hempoxy
-Abstract: Hempoxy is a novel hemp-based nanocomposite material made from integrating hemp nanosheets in a unique hemp epoxy made from hemp oil, hemp lignin and other hemp components.
-# Hempoxy
 
 **Hempoxy** is an innovative, sustainable nanocomposite material engineered by integrating hemp nanosheets into a unique hemp-based epoxy matrix. Our epoxy is formulated primarily from hemp oil, hemp lignin, and other natural hemp-derived components, making Hempoxy an eco-friendly alternative to traditional petroleum-based composites.
 
